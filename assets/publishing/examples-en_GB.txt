@@ -1,0 +1,3 @@
+Alexa ask Fortune Cookie for quote
+Alexa ask Fortune Cookie for wisdom
+Alexa open Fortune Cookie

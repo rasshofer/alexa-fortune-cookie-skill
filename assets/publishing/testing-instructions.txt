@@ -1,0 +1,1 @@
+Ask the skill for a wisdom/quote and you will receive a random quote.
