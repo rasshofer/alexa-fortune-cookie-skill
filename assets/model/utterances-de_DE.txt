@@ -1,0 +1,12 @@
+GetQuoteIntent Spruch
+GetQuoteIntent zufälliger Spruch
+GetQuoteIntent neuer Spruch
+GetQuoteIntent ein Spruch
+GetQuoteIntent ein zufälliger Spruch
+GetQuoteIntent ein neuer Spruch
+GetQuoteIntent Weisheit
+GetQuoteIntent zufällige Weisheit
+GetQuoteIntent neue Weisheit
+GetQuoteIntent eine Weisheit
+GetQuoteIntent eine zufällige Weisheit
+GetQuoteIntent eine neue Weisheit

@@ -1,0 +1,10 @@
+GetQuoteIntent quote
+GetQuoteIntent random quote
+GetQuoteIntent new quote
+GetQuoteIntent quote
+GetQuoteIntent a random quote
+GetQuoteIntent a new quote
+GetQuoteIntent wisdom
+GetQuoteIntent random wisdom
+GetQuoteIntent new wisdom
+GetQuoteIntent wisdom
